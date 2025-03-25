@@ -36,7 +36,7 @@ export default function HeroSection() {
             <div className="flex flex-wrap gap-4">
               {/* Play Game Button */}
               <Link
-                href="#play"
+                href="https://pinball-frontend.vercel.app"
                 className="group relative px-8 py-3 overflow-hidden rounded-full inline-block bg-gradient-to-r from-purple-600 to-blue-600"
               >
                 <span className="relative z-10 text-white font-semibold text-lg">

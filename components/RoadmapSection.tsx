@@ -21,12 +21,24 @@ const roadmapItems = [
     status: "upcoming",
     date: "Q2 2025",
     items: [
+      "Community Building",
       "Initial Marketing Campaign",
       "Token Pre-sale",
       "Token Launch",
-      "Community Feedback Integration",
     ],
     icon: <Coins className="w-6 h-6" />,
+  },
+  {
+    phase: "Phase 3",
+    title: "Expansion",
+    status: "upcoming",
+    date: "Q3 2025",
+    items: [
+      "Community Feedback Integration",
+      "Advanced rewards system",
+      "Official game launch",
+    ],
+    icon: <Rocket className="w-6 h-6" />,
   },
 ];
 
